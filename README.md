@@ -3,6 +3,8 @@
 This project was created by following a tutorial given by developer.apple.com. Completed to upskill in the Swift language and the 
 Xcode IDE.
 
+Tutorial: SwiftUI Essentials Creating and Combining Views
+
 From the tutorial brief:
 "This tutorial guides you through building Landmarks — an iOS app for discovering and sharing the places you love. 
 You’ll start by building the view that shows a landmark’s details. To lay out the views, Landmarks uses stacks to combine 
