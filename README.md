@@ -10,5 +10,4 @@ From the tutorial brief:
 You’ll start by building the view that shows a landmark’s details. To lay out the views, Landmarks uses stacks to combine 
 and layer the image and text view components. To add a map to the view, you’ll include a standard MapKit component."
 
-Tutorial link: 
-https://developer.apple.com/tutorials/swiftui/creating-and-combining-views?fbclid=IwAR1SrcXMf9o7Mz-7jsmXqr8RKRE1rxolktRFQbxUSlrkWtYWGd6Vl5R6q18
+Tutorial link: https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
